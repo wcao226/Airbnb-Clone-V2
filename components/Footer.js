@@ -17,7 +17,7 @@ function Footer() {
             <p>Forums</p>
             <p>UI</p>
             <p>UX</p>
-            <p>Weston Cao's HQ</p>
+            <p>Weston Cao HQ</p>
         </div>
         <div className='space-y-4 text-xs text-gray-800'>
             <h5 className='font-bold'>HOST</h5>
@@ -39,4 +39,4 @@ function Footer() {
   )
 }
 
-export default Footer
+export default Footer;
